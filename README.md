@@ -38,6 +38,6 @@ public class Base
 ```
 Sources
 * [Use reflection to export an object to a csv file](https://stackoverflow.com/questions/2306667/how-can-i-convert-a-list-of-objects-to-csv)
-* [How to extend the concept of primitive type](https://stackoverflow.com/questions/863881/how-do-i-tell-if-a-type-is-a-simple-type-i-e-holds-a-single-value) 
+* [Extend the concept of primitive type](https://stackoverflow.com/questions/863881/how-do-i-tell-if-a-type-is-a-simple-type-i-e-holds-a-single-value) 
 
 [1]: https://msdn.microsoft.com/en-us/library/system.type.isprimitive(v=vs.110).aspx
